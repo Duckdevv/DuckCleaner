@@ -1,3 +1,6 @@
+<img src="cover.jpg" alt="DuckCleaner Cover" width="100%">
+
+
 # Duck Cleaner
 
 A tool that organizes messy project folders (code + assets all mixed together) into clean subfolders — and automatically fixes any file paths in your code so nothing breaks.
