@@ -5,6 +5,9 @@
 
 A tool that organizes messy project folders (code + assets all mixed together) into clean subfolders — and automatically fixes any file paths in your code so nothing breaks.
 
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/59057626-086d-4d81-a405-dc2235d85b22" />
+<img width="1291" height="610" alt="Image" src="https://github.com/user-attachments/assets/34aceab0-6d3f-4ec7-ac4f-7092ed5b6adf" />
+
 ## The problem
 
 If you just drag files into folders manually, you break every `import` or `open()` pointing to them. Duck Cleaner sorts everything by file type AND updates the references in your code, so the project still runs after.
