@@ -1,0 +1,14 @@
+{
+  "scripts": [".py", ".js", ".gd", ".cs", ".ts", ".cpp", ".c", ".h", ".hpp", ".lua", ".sh", ".bat", ".ps1", ".rb", ".go", ".rs", ".kt", ".swift", ".java"],
+  "web": [".html", ".css"],
+  "assets/images": [".png", ".jpg", ".jpeg", ".svg", ".webp", ".gif", ".bmp", ".ico", ".tiff", ".tga", ".psd", ".xcf", ".dds", ".hdr", ".exr"],
+  "assets/audio": [".wav", ".ogg", ".mp3", ".flac", ".aac", ".m4a", ".wma", ".aiff", ".opus", ".mid", ".midi"],
+  "assets/video": [".mp4", ".mkv", ".webm", ".avi", ".mov", ".wmv", ".flv", ".ogv"],
+  "assets/models_3d": [".gltf", ".glb", ".obj", ".fbx", ".dae", ".blend", ".3ds", ".stl", ".ply"],
+  "assets/fonts": [".ttf", ".otf", ".woff", ".woff2", ".eot"],
+  "scenes": [".tscn", ".scn", ".unity", ".prefab", ".map"],
+  "data": [".json", ".yaml", ".yml", ".xml", ".csv", ".tsv", ".toml", ".ini", ".tres", ".res", ".sql", ".db", ".sqlite"],
+  "docs": [".md", ".pdf", ".txt", ".rst", ".docx", ".rtf"],
+  "archives": [".zip", ".tar", ".gz", ".7z", ".rar", ".bz2", ".xz", ".pck"],
+  "translations": [".po", ".pot", ".mo"]
+}
